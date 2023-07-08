@@ -1,5 +1,5 @@
 name: "DevCord General"
 description: "Tags zu generellen Themen auf dem DevCord"
 category: ["general"]
-public: true
+public: false
 language: de

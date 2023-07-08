@@ -1,0 +1,5 @@
+name: "DevCord Community"
+description: "Tags welche die DevCord Community betreffen"
+category: ["community"]
+public: false
+language: de

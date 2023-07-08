@@ -1,0 +1,5 @@
+name: "DevCord Minecraft"
+description: "Alles zur Entwicklung mit Minecraft"
+category: ["minecraft", "java", "programming"]
+public: true
+language: de

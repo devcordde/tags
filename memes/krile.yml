@@ -1,0 +1,5 @@
+name: "DevCord Memes"
+description: "Lustige und nicht lustige Memes"
+category: ["memes"]
+public: false
+language: de

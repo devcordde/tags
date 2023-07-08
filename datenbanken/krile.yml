@@ -1,5 +1,5 @@
 name: "DevCord Database"
-description: "Tipps für SQL Datenbanken mit und ohne Java"
+description: "Tipps zu Datenbanken und auch mit dem Umgang von SQL mit Java"
 category: ["sql", "java"]
 public: true
 language: de

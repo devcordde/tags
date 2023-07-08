@@ -1,7 +1,6 @@
-
 ---
 tag: build-outdated
-alias []
+alias: []
 ---
 
 **Error Build is outdated**

@@ -1,7 +1,7 @@
 
 ---
 tag: major-versions
-alias ["major-version"]
+alias: ["major-version"]
 ---
 
 ```

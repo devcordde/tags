@@ -1,7 +1,6 @@
-
 ---
 tag: logging
-alias ["plugin-logger", "logger"]
+alias: ["plugin-logger", "logger"]
 ---
 
 Hallo c:

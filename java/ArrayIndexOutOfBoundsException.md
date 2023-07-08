@@ -1,7 +1,7 @@
 
 ---
 tag: ArrayIndexOutOfBoundsException
-alias ["IndexOutOfBoundsException", "aioobe"]
+alias: ["IndexOutOfBoundsException", "aioobe"]
 ---
 
 > Was ist eine ArrayIndexOutOfBoundsException

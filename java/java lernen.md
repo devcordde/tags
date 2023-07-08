@@ -1,7 +1,7 @@
 
 ---
 tag: java lernen
-alias ["java-lernen", "java-basics", "learnjava", "javalernen"]
+alias: ["java-lernen", "java-basics", "learnjava", "javalernen"]
 ---
 
 **Ressourcen zum Java-Lernen:**

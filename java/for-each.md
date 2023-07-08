@@ -1,7 +1,6 @@
-
 ---
 tag: for-each
-alias []
+alias: []
 ---
 
 

@@ -1,7 +1,6 @@
-
 ---
 tag: spigot-docs
-alias ["spigotdocs"]
+alias: ["spigotdocs"]
 ---
 
 Die aktuellsten und offiziellen **Spigot-JavaDocs** findest du hier: <https://hub.spigotmc.org/javadocs/spigot/overview-summary.html>

@@ -1,7 +1,6 @@
-
 ---
 tag: path
-alias []
+alias: []
 ---
 
 > **Was ist der Unterschied zwischen dem absoluten und relativen Pfad?**

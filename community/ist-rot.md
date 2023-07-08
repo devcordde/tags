@@ -1,7 +1,6 @@
-
 ---
 tag: ist-rot
-alias []
+alias: []
 ---
 
 Hallo mein Freund! Es scheint so, als wüsstest du nicht, wie deine IDE funktioniert.

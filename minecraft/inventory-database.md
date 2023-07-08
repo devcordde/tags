@@ -1,7 +1,7 @@
 
 ---
 tag: inventory-database
-alias []
+alias: []
 ---
 
 Hier ein Beispiel, wie Inventare in Relationalen Datenbanken gespeichert werden können:

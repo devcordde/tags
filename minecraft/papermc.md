@@ -1,7 +1,6 @@
-
 ---
 tag: papermc
-alias ["paper"]
+alias: ["paper"]
 ---
 
 **PaperMC** ist ein Fork (Wenn dir der Begriff nichts sagt, eine "Version") von Spigot.

@@ -1,7 +1,6 @@
-
 ---
 tag: srp
-alias ["singleresponsibilityprinciple", "single-responsibility-principle", "zu-viel"]
+alias: ["singleresponsibilityprinciple", "single-responsibility-principle", "zu-viel"]
 ---
 
 **Das Single Responsibility Principle (SRP)**

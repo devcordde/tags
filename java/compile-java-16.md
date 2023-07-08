@@ -1,7 +1,7 @@
 
 ---
 tag: compile-java-16
-alias []
+alias: []
 ---
 
 **Eclipse**: Im Package Explorer -> Rechtsklick auf dein JRE -> Configure Buildpath -> (Configure Buildpath ->) auf das JRE klicken -> Edit -> Java 16 stellen

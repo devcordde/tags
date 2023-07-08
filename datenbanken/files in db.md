@@ -1,7 +1,7 @@
 
 ---
 tag: files in db
-alias []
+alias: []
 ---
 
 https://dba.stackexchange.com/a/226464

@@ -1,7 +1,6 @@
-
 ---
 tag: Google
-alias []
+alias: []
 ---
 
 Falls du mal nicht weiterweißt benutzt bitte https://google.de/ .

@@ -1,7 +1,6 @@
-
 ---
 tag: database
-alias []
+alias: []
 ---
 
 Hallo Nutzer :3

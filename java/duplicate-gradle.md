@@ -1,7 +1,7 @@
 
 ---
 tag: duplicate-gradle
-alias ["dg", "gradle-duplicate"]
+alias: ["dg", "gradle-duplicate"]
 ---
 
 Hello fellow user!

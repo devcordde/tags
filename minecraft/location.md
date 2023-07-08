@@ -1,7 +1,6 @@
-
 ---
 tag: location
-alias []
+alias: []
 ---
 
 Statt die Komponenten einer `Location` einzeln in einer yaml-config zu speichern, kannst du `Location`-Objekte direkt setzen:

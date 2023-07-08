@@ -1,7 +1,7 @@
 
 ---
 tag: nullpointerexception
-alias ["npe"]
+alias: ["npe"]
 ---
 
 Du scheinst eine `NullPointerException` zu haben. Das heißt, du greifst irgendwo in deinem Programm auf etwas zu, das keinen Wert zugewiesen hat, also `null` ist.

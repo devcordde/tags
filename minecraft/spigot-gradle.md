@@ -1,7 +1,6 @@
-
 ---
 tag: spigot-gradle
-alias []
+alias: []
 ---
 
 ```gradle

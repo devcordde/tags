@@ -1,7 +1,6 @@
-
 ---
 tag: encoding
-alias ["utf-8", "utf8"]
+alias: ["utf-8", "utf8"]
 ---
 
 **Eclipse**: Oben auf Window -> Preferences -> General -> Workspace -> "Text file encoding" -> Other -> UTF-8

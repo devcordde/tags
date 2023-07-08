@@ -1,7 +1,7 @@
 
 ---
 tag: minecraft-modding
-alias []
+alias: []
 ---
 
 **Modding Ressources:**

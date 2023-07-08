@@ -1,7 +1,7 @@
 
 ---
 tag: spigot-buildtools
-alias ["spigot-build-tools"]
+alias: ["spigot-build-tools"]
 ---
 
 1. Download: https://hub.spigotmc.org/jenkins/job/BuildTools/lastSuccessfulBuild/artifact/target/BuildTools.jar

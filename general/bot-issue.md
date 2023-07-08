@@ -1,7 +1,6 @@
-
 ---
 tag: bot-issue
-alias []
+alias: []
 ---
 
 https://github.com/devcordde/DevcordBot/issues/new

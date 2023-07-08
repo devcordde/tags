@@ -1,7 +1,6 @@
-
 ---
 tag: OOP
-alias []
+alias: []
 ---
 
 ```java

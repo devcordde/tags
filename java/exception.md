@@ -1,7 +1,7 @@
 
 ---
 tag: exception
-alias ["exceptions"]
+alias: ["exceptions"]
 ---
 
 Exceptions auf Hyperskill: https://hyperskill.org/learn/step/3497

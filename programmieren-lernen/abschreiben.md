@@ -1,7 +1,6 @@
-
 ---
 tag: abschreiben
-alias ["tutorial"]
+alias: ["tutorial"]
 ---
 
 Das Abschreiben von Tutorials z.B Videos ist **nicht** sehr schlau und auch nicht der beste Weg.

@@ -1,7 +1,6 @@
-
 ---
 tag: phpmyadmin
-alias ["myadmin", "phpadmin"]
+alias: ["myadmin", "phpadmin"]
 ---
 
 Hey c:

@@ -1,7 +1,7 @@
 
 ---
 tag: compile-java-8
-alias []
+alias: []
 ---
 
 **Eclipse**: Im Package Explorer -> Rechtsklick auf dein JRE -> Configure Buildpath -> (Configure Buildpath ->) auf das JRE klicken -> Edit -> Java 1.8 stellen

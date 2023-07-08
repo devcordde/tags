@@ -1,7 +1,6 @@
-
 ---
 tag: viehsite
-alias ["biviehseite", "viehseite"]
+alias: ["biviehseite", "viehseite"]
 ---
 
 > Wieso ist die BiVieh Website down?

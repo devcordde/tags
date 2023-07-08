@@ -1,7 +1,6 @@
-
 ---
 tag: dependency-injection
-alias ["di"]
+alias: ["di"]
 ---
 
 Dependency Injection by Example:```java

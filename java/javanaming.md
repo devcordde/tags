@@ -1,7 +1,7 @@
 
 ---
 tag: javanaming
-alias ["java-naming"]
+alias: ["java-naming"]
 ---
 
 Bitte beachte bei deinem Naming die  **Java Konventionen**.

@@ -1,7 +1,7 @@
 
 ---
 tag: java-installation
-alias ["java installation", "sdkman"]
+alias: ["java installation", "sdkman"]
 ---
 
 __Anleitung für Windows:__

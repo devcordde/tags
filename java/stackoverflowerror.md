@@ -1,7 +1,7 @@
 
 ---
 tag: stackoverflowerror
-alias []
+alias: []
 ---
 
 > Was ist ein java.lang.StackOverflowError

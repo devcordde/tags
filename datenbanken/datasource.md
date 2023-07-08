@@ -1,7 +1,6 @@
-
 ---
 tag: datasource
-alias ["data-source"]
+alias: ["data-source"]
 ---
 
 Wenn du das liest, arbeitest du vermutlich mit einer Datenbank und benutzt keine Data Source.

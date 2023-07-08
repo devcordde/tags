@@ -1,7 +1,6 @@
-
 ---
 tag: static
-alias ["static-abuse"]
+alias: ["static-abuse"]
 ---
 
 ```java

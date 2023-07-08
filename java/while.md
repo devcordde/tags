@@ -1,7 +1,6 @@
-
 ---
 tag: while
-alias ["do"]
+alias: ["do"]
 ---
 
 While-Schleife

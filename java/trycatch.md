@@ -1,7 +1,7 @@
 
 ---
 tag: trycatch
-alias []
+alias: []
 ---
 
 `Try-catch-Anweisungen` dienen in Zusammenarbeit mit **Exceptions **hauptsächlich dem **Abfangen **von Programmfehlern.

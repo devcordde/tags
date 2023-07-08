@@ -1,7 +1,7 @@
 
 ---
 tag: compile-java-11
-alias ["compile-java"]
+alias: ["compile-java"]
 ---
 
 **Eclipse**: Im Package Explorer -> Rechtsklick auf dein JRE -> Configure Buildpath -> (Configure Buildpath ->) auf das JRE klicken -> Edit -> Java 11 stellen

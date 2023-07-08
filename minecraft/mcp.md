@@ -1,7 +1,6 @@
-
 ---
 tag: mcp
-alias []
+alias: []
 ---
 
 MCP für alte Versionen (bis 1.12) <http://www.modcoderpack.com/>

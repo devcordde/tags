@@ -1,7 +1,6 @@
-
 ---
 tag: slots
-alias ["inventorys", "delete", "inventories"]
+alias: ["inventorys", "delete", "inventories"]
 ---
 
 **Klein**:

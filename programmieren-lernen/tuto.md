@@ -1,7 +1,6 @@
-
 ---
 tag: tuto
-alias []
+alias: []
 ---
 
 https://hyperskill.org/onboarding/?track=java

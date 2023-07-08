@@ -1,7 +1,6 @@
-
 ---
 tag: frage-guide
-alias []
+alias: []
 ---
 
 Hey, es scheint als wolle der User hier drüber dir helfen, du hast allerdings deine Frage unvollständig oder falsch formuliert!

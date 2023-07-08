@@ -1,7 +1,6 @@
-
 ---
 tag: gibberish
-alias ["nonsense"]
+alias: ["nonsense"]
 ---
 
 Es scheint als hättest du, ja DU, gerade etwas ohne Kontext geschrieben, was uns nicht wirklich genug sagt um dir zu helfen.

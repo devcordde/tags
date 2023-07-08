@@ -1,7 +1,7 @@
 
 ---
 tag: bungee-server-state
-alias []
+alias: []
 ---
 
 Du kannst mit ```java

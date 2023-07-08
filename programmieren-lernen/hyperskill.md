@@ -1,7 +1,6 @@
-
 ---
 tag: hyperskill
-alias []
+alias: []
 ---
 
 **Du willst Java, Kotlin oder Python lernen?**

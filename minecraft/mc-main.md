@@ -1,7 +1,6 @@
-
 ---
 tag: mc-main
-alias []
+alias: []
 ---
 
 Die `Main`-Class beschreibt in gängigen Programmiersprachen den Startpunkt des Programms. Der Computer weiß so, womit er beginnen soll, wenn ein Programm ausgeführt wird. Von der Main-Klasse aus erfolgt der gesamte Rest.

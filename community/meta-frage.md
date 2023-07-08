@@ -1,7 +1,6 @@
-
 ---
 tag: meta-frage
-alias []
+alias: []
 ---
 
 ```

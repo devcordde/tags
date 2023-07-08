@@ -1,7 +1,6 @@
-
 ---
 tag: Fehlermeldungen-lesen
-alias []
+alias: []
 ---
 
 Oft kannst du durch das Lesen deiner Fehlermeldung dein Problem selbst lösen. Das spart dir als auch anderen Menschen eine Menge Zeit. Deswegen ein kurzer Guide um eine Fehlermeldung richtig zu lesen und zu lösen:

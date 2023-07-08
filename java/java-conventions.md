@@ -1,7 +1,7 @@
 
 ---
 tag: java-conventions
-alias ["jc"]
+alias: ["jc"]
 ---
 
 Hey, die **Java Konventionen** einzuhalten erhöht die Lesbarkeit und Struktur sowie die Professionalität eines Projektes.

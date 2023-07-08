@@ -1,7 +1,6 @@
-
 ---
 tag: spigot-buch
-alias ["sb", "buch"]
+alias: ["sb", "buch"]
 ---
 
 Hey! Wie es aussieht möchtest du gerade ein Buch erstellen und es dem Spieler öffnen.

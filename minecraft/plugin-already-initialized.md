@@ -1,7 +1,7 @@
 
 ---
 tag: plugin-already-initialized
-alias ["InvalidPluginException", "invalidpluginexception"]
+alias: ["InvalidPluginException", "invalidpluginexception"]
 ---
 
 Wenn du beim Starten deines Plugins eine Fehlermeldung erhälst, die die Zeile `org.bukkit.plugin.InvalidPluginException: java.lang.IllegalArgumentException: Plugin already initialized!` enthält, liegt das höchstwahrscheinlich daran, dass du mehrere Plugins mit den gleichen oder nicht vorhandenen Packagebezeichnungen verwendest.

@@ -1,7 +1,6 @@
-
 ---
 tag: git
-alias []
+alias: []
 ---
 
 Git ist ein sogenanntes `Version Control System`, welches in der Entwicklung, insbesondere im DevOps-workflow, eine tragende Rolle spielt. Es erlaubt dir, Änderungen zu verfolgen, auf eine alte Version deines Programms zurückzugehen und auch mit mehreren Personen gleichzeitig am gleichen Projekt zu arbeiten.

@@ -1,7 +1,7 @@
 
 ---
 tag: spigot debug idea
-alias []
+alias: []
 ---
 
 > Wie debugge ich ein Minecraft Plugin in IntelliJ

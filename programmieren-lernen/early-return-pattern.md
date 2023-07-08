@@ -1,7 +1,6 @@
-
 ---
 tag: early-return-pattern
-alias ["early return pattern", "erp", "bouncer-pattern", "bouncer pattern", "early return", "early-return"]
+alias: ["early return pattern", "erp", "bouncer-pattern", "bouncer pattern", "early return", "early-return"]
 ---
 
 Das Early Return Pattern (oder auch Bouncer Pattern genannt) dient dazu, Verschachtelungen im Code aufzulösen und dadurch den Code besser lesbar zu machen.

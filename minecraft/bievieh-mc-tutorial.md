@@ -1,7 +1,7 @@
 
 ---
 tag: bievieh-mc-tutorial
-alias ["bievieh-mc", "mc-tutorial", "mctutorial", "mc tutorial"]
+alias: ["bievieh-mc", "mc-tutorial", "mctutorial", "mc tutorial"]
 ---
 
 Hallo, da du diesen Tag liest schaust du wohl BieViehs Tutorialreihe zu Minecraft.

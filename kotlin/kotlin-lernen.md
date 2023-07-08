@@ -1,7 +1,6 @@
-
 ---
 tag: kotlin-lernen
-alias []
+alias: []
 ---
 
 **Kostenlose Ressourcen zum Kotlin-Lernen:**

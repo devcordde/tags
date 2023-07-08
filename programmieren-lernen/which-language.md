@@ -1,7 +1,6 @@
-
 ---
 tag: which-language
-alias []
+alias: []
 ---
 
 **Web-Technologien allgemein:** TS, JS, Elixir, Dart, Python, Go, Ruby (on Rails)

@@ -1,7 +1,6 @@
-
 ---
 tag: anti-pattern
-alias ["antipattern"]
+alias: ["antipattern"]
 ---
 
 Anti-Patterns sind bestimmte Muster in der Softwareentwicklung, die als schlechte Programmierpraktiken gelten.

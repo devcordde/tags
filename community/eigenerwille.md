@@ -1,7 +1,6 @@
-
 ---
 tag: eigenerwille
-alias ["ew"]
+alias: ["ew"]
 ---
 
 Frage bitte nicht so oft (das gleiche), sondern versuche es selber zu lösen.

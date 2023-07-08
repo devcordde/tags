@@ -1,7 +1,6 @@
-
 ---
 tag: screenshot
-alias ["screen"]
+alias: ["screen"]
 ---
 
 Hey, scheinbar hast du gerade ein (vllt. sogar unleserliches) Foto deines Bildschirmes geschickt.

@@ -1,7 +1,6 @@
-
 ---
 tag: lombok
-alias []
+alias: []
 ---
 
 Project Lombok ist ein Java Annotation-Processor, der einem die Nutzung der Sprache vereinfachen soll. Es wird jedoch empfohlen, es nicht zu benutzen.

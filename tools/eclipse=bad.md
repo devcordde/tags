@@ -1,7 +1,6 @@
-
 ---
 tag: eclipse=bad
-alias []
+alias: []
 ---
 
 Jeder hasst Eclipse, aber wieso?

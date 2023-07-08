@@ -1,7 +1,6 @@
-
 ---
 tag: jdk
-alias []
+alias: []
 ---
 
 > Wieso benötige ich einen Oracle Account um Java herunterzuladen?

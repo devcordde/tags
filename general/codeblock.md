@@ -1,7 +1,6 @@
-
 ---
 tag: codeblock
-alias ["code-block"]
+alias: ["code-block"]
 ---
 
 \`\`\`java

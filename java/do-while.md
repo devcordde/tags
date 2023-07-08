@@ -1,7 +1,6 @@
-
 ---
 tag: do-while
-alias []
+alias: []
 ---
 
 

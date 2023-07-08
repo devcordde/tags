@@ -1,7 +1,6 @@
-
 ---
 tag: equals
-alias []
+alias: []
 ---
 
 !j {

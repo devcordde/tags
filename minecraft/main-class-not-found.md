@@ -1,7 +1,7 @@
 
 ---
 tag: main-class-not-found
-alias []
+alias: []
 ---
 
 > Was bedeutet org.bukkit.plugin.InvalidPluginException: Cannot find main class com.schlaubi.isthebest.BotDeveloper

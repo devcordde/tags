@@ -1,7 +1,6 @@
-
 ---
 tag: spigot-debug
-alias []
+alias: []
 ---
 
 Wie kann ich den Debugger meiner IDE für Spigot benutzen?

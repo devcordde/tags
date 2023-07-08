@@ -1,7 +1,7 @@
 
 ---
 tag: equals-null
-alias []
+alias: []
 ---
 
 > Wieso throwed Object#equals(Object) eine NPE

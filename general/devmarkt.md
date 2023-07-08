@@ -1,7 +1,6 @@
-
 ---
 tag: devmarkt
-alias []
+alias: []
 ---
 
 Einen wunderschönen guten Tag du weibliches, männliches oder diverses Individuum...

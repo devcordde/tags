@@ -1,7 +1,6 @@
-
 ---
 tag: mc18-java9
-alias []
+alias: []
 ---
 
 > Was bedeutet `java.lang.RuntimeException: Unable to access address of buffer`

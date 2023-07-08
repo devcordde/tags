@@ -1,7 +1,6 @@
-
 ---
 tag: libs
-alias []
+alias: []
 ---
 
 > Liste von hilfreichen Libraries und Programmen

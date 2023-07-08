@@ -1,7 +1,6 @@
-
 ---
 tag: lizenzsystem
-alias ["lizenz", "Lizenz", "Lizenzen"]
+alias: ["lizenz", "Lizenz", "Lizenzen"]
 ---
 
 Du willst ein Plugin mit einem Lizenzsystem versehen?

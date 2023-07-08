@@ -1,7 +1,6 @@
-
 ---
 tag: javahome
-alias ["java-home"]
+alias: ["java-home"]
 ---
 
 **Wie setze ich meine JAVA_HOME variable? (Windows)**

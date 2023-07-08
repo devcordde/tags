@@ -1,7 +1,6 @@
-
 ---
 tag: wait
-alias []
+alias: []
 ---
 
 Hallo, ungeduldiger Freund! Du hast eine Frage gestellt, aber noch keine Antwort bekommen? Blöd 😕

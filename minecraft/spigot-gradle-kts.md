@@ -1,7 +1,7 @@
 
 ---
 tag: spigot-gradle-kts
-alias ["spigot.gradle.kts"]
+alias: ["spigot.gradle.kts"]
 ---
 
 ```kotlin

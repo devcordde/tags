@@ -1,7 +1,7 @@
 
 ---
 tag: download spigot
-alias ["buildtools"]
+alias: ["buildtools"]
 ---
 
 __**Wie kann ich Spigot herunterladen?**__

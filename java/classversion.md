@@ -1,7 +1,7 @@
 
 ---
 tag: classversion
-alias ["class-version", "UnsupportedClassVersionError"]
+alias: ["class-version", "UnsupportedClassVersionError"]
 ---
 
 > Was bedeuted der java.lang.UnsupportedClassVersionError?

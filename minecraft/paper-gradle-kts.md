@@ -1,7 +1,7 @@
 
 ---
 tag: paper-gradle-kts
-alias ["paper-build-kts"]
+alias: ["paper-build-kts"]
 ---
 
 ```gradle

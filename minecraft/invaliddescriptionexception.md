@@ -1,7 +1,7 @@
 
 ---
 tag: invaliddescriptionexception
-alias ["plugin.yml"]
+alias: ["plugin.yml"]
 ---
 
 > Was ist eine `InvalidDescriptionException`

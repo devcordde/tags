@@ -1,7 +1,6 @@
-
 ---
 tag: lernjava
-alias ["lern-java"]
+alias: ["lern-java"]
 ---
 
 Hallo, mein Freund^^

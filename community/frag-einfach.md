@@ -1,7 +1,6 @@
-
 ---
 tag: frag-einfach
-alias ["frageinfach"]
+alias: ["frageinfach"]
 ---
 
 https://nohello.net

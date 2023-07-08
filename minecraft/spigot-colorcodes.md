@@ -1,7 +1,7 @@
 
 ---
 tag: spigot-colorcodes
-alias ["scc", "colorcodes", "farbcodes"]
+alias: ["scc", "colorcodes", "farbcodes"]
 ---
 
 **Folgende Farbcodes kannst du in Spigot verwenden:**

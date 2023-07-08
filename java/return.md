@@ -1,7 +1,6 @@
-
 ---
 tag: return
-alias []
+alias: []
 ---
 
 Code:

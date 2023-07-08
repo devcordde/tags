@@ -1,7 +1,6 @@
-
 ---
 tag: tias
-alias ["tryitandsee", "tryandsee", "try"]
+alias: ["tryitandsee", "tryandsee", "try"]
 ---
 
 https://tryitands.ee/

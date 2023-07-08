@@ -1,7 +1,6 @@
-
 ---
 tag: old-version
-alias []
+alias: []
 ---
 
 **Das alte Versionen Problem**:

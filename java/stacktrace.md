@@ -1,7 +1,7 @@
 
 ---
 tag: stacktrace
-alias []
+alias: []
 ---
 
 Hallo zukünftiger Programmierer.

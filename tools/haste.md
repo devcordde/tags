@@ -1,7 +1,6 @@
-
 ---
 tag: haste
-alias ["hastebin", "pastebin", "copy/paste", "paste"]
+alias: ["hastebin", "pastebin", "copy/paste", "paste"]
 ---
 
 Bitte verwende eine der folgenden Seiten, um uns deinen Code oder Fehlermeldungen zu übermitteln:

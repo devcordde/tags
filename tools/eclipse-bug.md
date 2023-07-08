@@ -1,7 +1,6 @@
-
 ---
 tag: eclipse-bug
-alias []
+alias: []
 ---
 
 > 1a Anleitung zum Beheben von Eclipse-Fehlern:

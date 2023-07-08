@@ -1,7 +1,6 @@
-
 ---
 tag: Spigot Weg
-alias ["spigot-weg"]
+alias: ["spigot-weg"]
 ---
 
 **Der Spigot Weg**

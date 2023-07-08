@@ -1,7 +1,6 @@
-
 ---
 tag: pdc
-alias ["persistentdatacontainer"]
+alias: ["persistentdatacontainer"]
 ---
 
 https://docs.papermc.io/paper/dev/pdc

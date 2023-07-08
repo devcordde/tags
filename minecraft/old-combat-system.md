@@ -1,7 +1,7 @@
 
 ---
 tag: old-combat-system
-alias []
+alias: []
 ---
 
 Du solltest keinen Minecraft 1.8(.8) Server verwenden aus mehreren Gründen.

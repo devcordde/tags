@@ -1,7 +1,6 @@
-
 ---
 tag: bungeecord-docs
-alias ["bungee-docs"]
+alias: ["bungee-docs"]
 ---
 
 Die aktuellsten und offiziellen **BungeeCord-JavaDocs** findest du hier:

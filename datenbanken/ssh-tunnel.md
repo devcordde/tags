@@ -1,7 +1,7 @@
 
 ---
 tag: ssh-tunnel
-alias []
+alias: []
 ---
 
 Wenn du dich zu einem Dienst auf deinem Server verbinden willst ist es oftmals die schlechtestes Lösung den Port zu öffnen.

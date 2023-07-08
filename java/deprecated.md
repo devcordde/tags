@@ -1,7 +1,7 @@
 
 ---
 tag: deprecated
-alias []
+alias: []
 ---
 
 > Wieso ist diese Methode da durchgestrichen?

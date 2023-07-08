@@ -1,7 +1,6 @@
-
 ---
 tag: orm
-alias []
+alias: []
 ---
 
 https://javabydeveloper.com/orm-object-relational-mapping/

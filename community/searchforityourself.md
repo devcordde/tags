@@ -1,7 +1,7 @@
 
 ---
 tag: searchforityourself
-alias ["sfity", "suchen", "suchselber", "```suchselber```"]
+alias: ["sfity", "suchen", "suchselber", "```suchselber```"]
 ---
 
 **Puh, am besten fange ich direkt an...**

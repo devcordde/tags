@@ -1,4 +1,3 @@
-
 ---
 tag: getter-setter
 alias: []

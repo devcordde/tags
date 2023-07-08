@@ -1,4 +1,3 @@
-
 ---
 tag: spigot-buildtools
 alias: ["spigot-build-tools"]

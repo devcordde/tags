@@ -1,4 +1,3 @@
-
 ---
 tag: plugin-already-initialized
 alias: ["InvalidPluginException", "invalidpluginexception"]

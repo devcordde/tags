@@ -1,4 +1,3 @@
-
 ---
 tag: spigot-colorcodes
 alias: ["scc", "colorcodes", "farbcodes"]

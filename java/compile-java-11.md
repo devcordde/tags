@@ -1,4 +1,3 @@
-
 ---
 tag: compile-java-11
 alias: ["compile-java"]

@@ -1,4 +1,3 @@
-
 ---
 tag: classversion
 alias: ["class-version", "UnsupportedClassVersionError"]

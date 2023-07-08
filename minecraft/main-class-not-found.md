@@ -1,4 +1,3 @@
-
 ---
 tag: main-class-not-found
 alias: []

@@ -1,4 +1,3 @@
-
 ---
 tag: exception
 alias: ["exceptions"]

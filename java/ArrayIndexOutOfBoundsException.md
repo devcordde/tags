@@ -1,4 +1,3 @@
-
 ---
 tag: ArrayIndexOutOfBoundsException
 alias: ["IndexOutOfBoundsException", "aioobe"]

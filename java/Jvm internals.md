@@ -1,4 +1,3 @@
-
 ---
 tag: Jvm internals
 alias: ["jvm-internals", "java-internals"]

@@ -1,4 +1,3 @@
-
 ---
 tag: spigot-gradle-kts
 alias: ["spigot.gradle.kts"]

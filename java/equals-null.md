@@ -1,4 +1,3 @@
-
 ---
 tag: equals-null
 alias: []

@@ -1,4 +1,3 @@
-
 ---
 tag: minecraft-modding
 alias: []

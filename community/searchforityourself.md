@@ -1,4 +1,3 @@
-
 ---
 tag: searchforityourself
 alias: ["sfity", "suchen", "suchselber", "```suchselber```"]

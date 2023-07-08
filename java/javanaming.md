@@ -1,4 +1,3 @@
-
 ---
 tag: javanaming
 alias: ["java-naming"]

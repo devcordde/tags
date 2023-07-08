@@ -1,4 +1,3 @@
-
 ---
 tag: paper-gradle-kts
 alias: ["paper-build-kts"]

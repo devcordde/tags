@@ -1,4 +1,3 @@
-
 ---
 tag: java-installation
 alias: ["java installation", "sdkman"]

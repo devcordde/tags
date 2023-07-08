@@ -1,4 +1,3 @@
-
 ---
 tag: java-conventions
 alias: ["jc"]

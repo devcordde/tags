@@ -1,4 +1,3 @@
-
 ---
 tag: inventory-database
 alias: []

@@ -1,4 +1,3 @@
-
 ---
 tag: bungee-server-state
 alias: []

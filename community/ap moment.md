@@ -1,4 +1,3 @@
-
 ---
 tag: ap moment
 alias: ["apm", "nick-moment", "ap-moment"]

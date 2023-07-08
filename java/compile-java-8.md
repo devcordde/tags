@@ -1,4 +1,3 @@
-
 ---
 tag: compile-java-8
 alias: []

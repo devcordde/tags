@@ -96,7 +96,7 @@ Alles zur Entwicklung mit Minecraft
 
 Sachen die sonst keinen Platz haben :c
 
-### github:devcordde/tags/mis
+### github:devcordde/tags/misc
 
 Für die absoluten Anfängertipps
 

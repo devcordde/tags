@@ -12,4 +12,4 @@ Um dir den Einstieg zu erleichtern wurde ein Wiki angelegt mit einer ausführlic
 Dieses Wiki wird dir das minimalste Wissen vermitteln,was du benötigst. Du magst zwar denken, dass das recht viel ist, jedoch ist das gerade mal der Anfang. Es gibt noch so vieles mehr was man mit Datenbanken machen kann!
 
 Also los gehts!
-<https://sql.chojo.de/de/>
+<https://sql.chojo.dev/de/>

@@ -1,6 +1,6 @@
 ---
 tag: database
-alias: []
+alias: [datasource]
 ---
 
 Hallo Nutzer :3

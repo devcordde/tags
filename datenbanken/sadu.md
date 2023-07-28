@@ -19,7 +19,7 @@ dependencies {
 ```
 ```xml
 <dependency>
-    <groupIdde.chojo.sadu</groupId>
+    <groupId>de.chojo.sadu</groupId>
     <artifactId>sadu</artifactId>
     <version>version</version>
 </dependency>

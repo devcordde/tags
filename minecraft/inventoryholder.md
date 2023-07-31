@@ -1,5 +1,5 @@
 ---
-tag: invetoryholder
+tag: inventoryholder
 alias: ["inventoryholder"]
 ---
 

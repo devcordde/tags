@@ -11,4 +11,4 @@ Du solltest keinen Minecraft 1.8(.8) Server verwenden aus mehreren Gründen.
 
 - <https://www.spigotmc.org/resources/protocolsupportstuff.44527/>
 
- <https://www.spigotmc.org/resources/oldcombatmechanics-disable-1-9-hit-cooldown.19510/>
+- <https://www.spigotmc.org/resources/oldcombatmechanics-disable-1-9-hit-cooldown.19510/>

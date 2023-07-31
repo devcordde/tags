@@ -2,7 +2,7 @@
 
 This is our tag repository for the Discord Bot [Krile](https://github.com/rainbowdashlabs/krile).
 
-Our tags are german, so sorry in advance english speaking peeps c:
+Our tags are German, so sorry in advance English speaking peeps c:
 
 Feel free to propose changes and enhancements to our tags and use them on your own server!
 
@@ -13,7 +13,7 @@ Ab hier gehts auf Deutsch weiter.
 ## Tag Meta
 
 Aliase von Tags werden in der Tag Meta definiert.
-Diese ist optional und muss wenn vorhanden am Anfang des Files stehen.
+Diese ist optional und muss, wenn vorhanden, am Anfang des Files stehen.
 
 ```md
 ---
@@ -46,15 +46,15 @@ Du kannst mit <new_page> auch selbst einfach eine neue Seite beginnen.
 
 ## Tags bearbeiten
 
-Wenn du einen Tag bearbeiten willst kannst du einfach das File öffnen. 
-Am schnellsten findest du es wenn du in Discord auf das Fragezeichen unter dem Tag drückst und anschließen auf den File Link im Info Embed.
+Wenn du einen Tag bearbeiten willst, kannst du einfach das File öffnen. 
+Am schnellsten findest du es, wenn du in Discord auf das Fragezeichen unter dem Tag drückst und anschließen auf den File Link im Info Embed gehst.
 Du kannst den Tag direkt hier auf GitHub bearbeiten.
 
 ## Tags erstellen
 
-Um einen Tag zu erstellen musst du nur ein Markdown (.md) File in einem unserer Repos anlegen.
+Um einen Tag zu erstellen, musst du nur ein Markdown (.md) File in einem unserer Repos anlegen.
 Die Repos und was sie enthalten findest du etwas weiter unten.
-Dein Tag wird dann nach einiger Zeit auf dem Server verfügbar sein wenn die PR dafür gemerged wurde.
+Dein Tag wird dann nach einiger Zeit auf dem Server verfügbar sein, wenn die PR dafür gemerged wurde.
 
 ## Repositories
 
@@ -96,7 +96,7 @@ Alles zur Entwicklung mit Minecraft
 
 Sachen die sonst keinen Platz haben :c
 
-### github:devcordde/tags/misc
+### github:devcordde/tags/programmieren-lernen
 
 Für die absoluten Anfängertipps
 

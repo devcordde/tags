@@ -14,7 +14,9 @@ Falls du das beheben möchtest, musst du folgenden Code in deine `build.gradle` 
         filter ReplaceTokens, tokens: [version: version]
         duplicatesStrategy = DuplicatesStrategy.INCLUDE
     }
-}```Wenn du das schon standardmäßig hast, füge unter
+}
+```
+Wenn du das schon standardmäßig hast, füge unter
 `filter ReplaceTokens, tokens: [version: version]`
 einfach
 `duplicatesStrategy = DuplicatesStrategy.INCLUDE`
@@ -28,7 +30,9 @@ Falls du das beheben möchtest, musst du folgenden Code in deine `build.gradle.k
             duplicatesStrategy = DuplicatesStrategy.INCLUDE
         }
     }
-}```Falls du `processResources` schon hast, musst du einfach
+}
+```
+Falls du `processResources` schon hast, musst du einfach
 `duplicatesStrategy = DuplicatesStrategy.INCLUDE` hinzufügen.
 Nun sollte dein Problem gefixt sein.
 Viel Spaß!

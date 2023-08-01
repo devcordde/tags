@@ -9,4 +9,4 @@ Es scheint so, als würdest du ziemlich oft ziemlich einfache Fragen stellen, we
 
 Fazit: Lern Java, bevor du mit Spigot anfängst!
 
-**Tipp:** Brauchst du Hilfe beim Suchen? `/t suchen` sollte dir helfen!
+**Tipp:** Brauchst du Hilfe beim Suchen? `/tag suchen` sollte dir helfen!

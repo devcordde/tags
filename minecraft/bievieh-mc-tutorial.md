@@ -7,6 +7,8 @@ Hallo, da du diesen Tag liest schaust du wohl BieViehs Tutorialreihe zu Minecraf
 Diese Serie ist aber älter und enthält alte Versionen.
 Als erstes solltest du dir die neuste Spigot Version herunterladen und die neuste Java Version:
 
-Java Version: https://adoptopenjdk.net/?variant=openjdk16&jvmVariant=hotspot
+Java Version: https://adoptium.net/de/temurin/releases/
+
 Spigot Version: https://www.spigotmc.org/wiki/buildtools/
+
 Paper Version (Empfohlen): https://papermc.io/downloads

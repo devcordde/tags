@@ -1,0 +1,14 @@
+name: "Assign Tag Team"
+on:
+  pull_request:
+    types: [opened, ready_for_review]
+
+jobs:
+  assign-reviewers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Assign Team and Persons"
+        uses: rowi1de/auto-assign-review-teams@v1.1.3
+        with:
+          repo-token: ${{ secrets.AUTH_TOKEN }}
+          teams: "tag-team"

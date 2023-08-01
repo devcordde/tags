@@ -13,7 +13,8 @@ Was SADU dir bietet:
 
 Kurze Beispiele sind auf der nächsten Seite!
 <new_page>
-Der Query Builder:```java
+Der Query Builder:
+```java
 public Optional<Result> getResultNew(int id) {
   return builder(Result.class)
     .query("SELECT result FROM results WHERE id = ?")
@@ -21,7 +22,9 @@ public Optional<Result> getResultNew(int id) {
     .readRow(rs -> new Result(rs.getString("result")))
     .firstSync(); // ohne sync für eine CompletableFuture!
 }
-```Und der DataSourceBuilder:```java
+```
+Und der DataSourceBuilder:
+```java
 HikariDataSource dataSource = DataSourceCreator.create(PostgreSql.get())
   // We configure the usual stuff.
   .configure(config -> config.host("localhost")
@@ -39,11 +42,13 @@ HikariDataSource dataSource = DataSourceCreator.create(PostgreSql.get())
 ```
 Bock gekriegt? Auf der nächsten Seite sind Gradle und Maven Informationen!
 <new_page>
-Du kannst **SADU** importieren via **Maven** oder **Gradle**:```kts
+Du kannst **SADU** importieren via **Maven** oder **Gradle**:
+```kts
 dependencies {
     implementation("de.chojo.sadu", "sadu", "version")
 }
-``````xml
+```
+```xml
 <dependency>
     <groupId>de.chojo.sadu</groupId>
     <artifactId>sadu</artifactId>

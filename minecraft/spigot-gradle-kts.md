@@ -49,4 +49,5 @@ tasks {
         include("-all.jar")
         into(spigotPluginsDir ?: error("Please set spigotPluginsDir in gradle.properties"))
     }
-}```
+}
+```

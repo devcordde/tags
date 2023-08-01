@@ -16,13 +16,13 @@ repositories {
 }
 
 dependencies {
-  compileOnly "org.spigotmc:spigot-api:1.17.1-R0.1-SNAPSHOT"
+  compileOnly "org.spigotmc:spigot-api:1.20.1-R0.1-SNAPSHOT"
   // falls du die ganze server jar brauchst, musst die Build Tools ausführen
-  // compileOnly "org.spigotmc:spigot:1.17.1-R0.1-SNAPSHOT"
+  // compileOnly "org.spigotmc:spigot:1.20.1-R0.1-SNAPSHOT"
 }
 
 jar { // optional
-  destinationDirectory = file("pfad/zum/export/ordner") // zb. M:/MeinServer/spigot/1.8.8/plugins
+  destinationDirectory = file("pfad/zum/export/ordner") // zb. M:/MeinServer/spigot/1.20.1/plugins
   archivesBaseName = "NameMeinerJar" // zb. MeinPlugin
 }
 

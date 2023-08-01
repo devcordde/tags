@@ -10,7 +10,8 @@ Ein StackOverflow error tritt auf wenn eine Methode sich selber zu oft wieder au
 ```java
 public void println(String string) {
   println(string);
-}```
+}
+```
 Hier im Beispiel ruft println sich selber wieder auf was wieder println aufruft und so weiter -> es hört also nie auf daher der Fehler.
 
 Häufig tritt dies unter anderem bei Overloads auf.
@@ -27,7 +28,6 @@ public void println(String string, boolean makeUpperCase) {
     println(string);
   }
 }
-
 ```
 
 hier sehen wir wie vergessen wurde beim oberen overload den 2. parameter hinzuzufügen weswegen es nicht `println(String, boolean)` sondern`println(String)` und dadurch immer wieder sich selber aufruft

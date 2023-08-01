@@ -31,8 +31,11 @@ bookMeta.setAuthor("Server");
 book.setItemMeta(bookMeta);
 //Hier geben wir dem Buch die Attribute auf den Weg
 
-```Nun habt ihr ein voll-funktionales Buch! Ihr könnt es entweder dem Spieler geben oder seit der 1.14 dem Spieler direkt öffnen:
+```
+Nun habt ihr ein voll-funktionales Buch! Ihr könnt es entweder dem Spieler geben oder seit der 1.14 dem Spieler direkt öffnen:
 ```java
 player.openBook(book);
-//"player" ist hierbei der Spieler dem ihr es öffnen möchtet und "book" der ItemStack```Es gibt auch Wege das Buch direkt zu öffnen in Versionen niedriger als 1.14, fragt einfach mal in <#486919187038470155>.
+//"player" ist hierbei der Spieler dem ihr es öffnen möchtet und "book" der ItemStack
+```
+Es gibt auch Wege das Buch direkt zu öffnen in Versionen niedriger als 1.14, fragt einfach mal in <#486919187038470155>.
 Ich hoffe das hat euch geholfen!

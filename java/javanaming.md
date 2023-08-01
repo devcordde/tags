@@ -8,4 +8,4 @@ Laut den Konventionen sollten Packages, Klassen, Methoden, Variablen und Konstan
 `KlassenSoNennen, variablenUndMethodenSo, KONSTANTEN_SO, packages.so.nennen`
 (**UpperCamelCase**, **lowerCamelCase** und **SNAKE_CASE**)
 ***Vermeide Abkürzungen***
-Weitere Informationen findest du unter `/t java-conventions`.
+Weitere Informationen findest du unter `/tag java-conventions`.

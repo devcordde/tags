@@ -4,7 +4,7 @@ alias: []
 ---
 
 > Wieso throwed Object#equals(Object) eine NPE
-Wie man ja schon bei `st npe` lesen kann tritt eine NPE dann auf wenn man eine Methode/ein Field eines Objektes aufrufen will welches null ist. Equals
+Wie man ja schon bei `/tag npe` lesen kann tritt eine NPE dann auf wenn man eine Methode/ein Field eines Objektes aufrufen will welches null ist. Equals
 dies lässt sich auf 2 wege vermeiden
 
 > b.equals(a)

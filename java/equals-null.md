@@ -4,7 +4,7 @@ alias: []
 ---
 
 > Wieso throwed Object#equals(Object) eine NPE
-Wie man ja schon bei `st npe` lesen kann tritt eine NPE dann auf wenn man eine Methode/ein Field eines Objektes aufrufen will welches null ist. Equals
+Wie man ja schon bei `/tag npe` lesen kann tritt eine NPE dann auf wenn man eine Methode/ein Field eines Objektes aufrufen will welches null ist. Equals
 dies lässt sich auf 2 wege vermeiden
 
 > b.equals(a)
@@ -12,7 +12,8 @@ Wenn nur eines der beiden Objekte null sein kann kann man equals einfach die met
 ```java
 public boolean test(@Nullable objectA, @NotNull objectB) {
   return objectB.equals(objectA);
-}```
+}
+```
 
 > Objects.equals
 Wenn beide Objekte null sein können kann man `Objects#equals(Object, Object)`  benutzen (https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#equals-java.lang.Object-java.lang.Object-

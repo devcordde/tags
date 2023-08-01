@@ -12,7 +12,8 @@ Wenn nur eines der beiden Objekte null sein kann kann man equals einfach die met
 ```java
 public boolean test(@Nullable objectA, @NotNull objectB) {
   return objectB.equals(objectA);
-}```
+}
+```
 
 > Objects.equals
 Wenn beide Objekte null sein können kann man `Objects#equals(Object, Object)`  benutzen (https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#equals-java.lang.Object-java.lang.Object-

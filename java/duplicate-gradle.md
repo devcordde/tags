@@ -9,12 +9,15 @@ dass Gradle nicht weiß, wie es deine `plugin.yml` handeln soll.
 
 **GROOVY**
 Falls du das beheben möchtest, musst du folgenden Code in deine `build.gradle` kopieren:
-```processResources {
+```
+processResources {
     from(sourceSets.main.resources.srcDirs) {
         filter ReplaceTokens, tokens: [version: version]
         duplicatesStrategy = DuplicatesStrategy.INCLUDE
     }
-}```Wenn du das schon standardmäßig hast, füge unter
+}
+```
+Wenn du das schon standardmäßig hast, füge unter
 `filter ReplaceTokens, tokens: [version: version]`
 einfach
 `duplicatesStrategy = DuplicatesStrategy.INCLUDE`
@@ -22,13 +25,16 @@ ein. Nun sollte dein Problem gefixt sein.
 
 **KOTLIN**
 Falls du das beheben möchtest, musst du folgenden Code in deine `build.gradle.kts` kopieren:
-```tasks {
+```
+tasks {
     processResources {
         from(sourceSets.main.get().resources.srcDirs) {
             duplicatesStrategy = DuplicatesStrategy.INCLUDE
         }
     }
-}```Falls du `processResources` schon hast, musst du einfach
+}
+```
+Falls du `processResources` schon hast, musst du einfach
 `duplicatesStrategy = DuplicatesStrategy.INCLUDE` hinzufügen.
 Nun sollte dein Problem gefixt sein.
 Viel Spaß!

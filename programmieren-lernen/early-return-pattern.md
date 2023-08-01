@@ -12,7 +12,9 @@ if (Bedingung) {
       doSomething();
     }
   }
-}```sollte laut dem Early Return Pattern folgendermaßen geschrieben werden:
+}
+```
+sollte laut dem Early Return Pattern folgendermaßen geschrieben werden:
 ```java
 if (!Bedingung) {
   return; // Optional: return <Rückgabewert>;

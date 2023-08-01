@@ -8,7 +8,7 @@ plugins {
     java
 
     // falls du weitere Abhängigkeiten in deinem Plugin benötigst, welche nicht von Paper bereitgestellt werden:
-    // id("com.github.johnrengelman.shadow") version "7.1.2"
+    // id("com.github.johnrengelman.shadow") version "8.1.1"
 }
 
 group = "org.wlosp"
@@ -20,7 +20,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("io.papermc.paper:paper-api:1.19.3-R0.1-SNAPSHOT")
+    compileOnly("io.papermc.paper:paper-api:1.20.1-R0.1-SNAPSHOT")
 }
 
 java.toolchain {

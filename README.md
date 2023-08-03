@@ -60,52 +60,52 @@ Dein Tag wird dann nach einiger Zeit auf dem Server verfügbar sein, wenn die PR
 
 Dieses Repo
 
-### github:devcordde/tags/community
+### github:devcordde/tags//community
 
 Tags welche die DevCord Community betreffen
 
-### github:devcordde/tags/datenbanken
+### github:devcordde/tags//datenbanken
 
 Tipps zu Datenbanken und auch mit dem Umgang von SQL mit Java
 
-### github:devcordde/tags/discord
+### github:devcordde/tags//discord
 
 Alles zu Entwicklung mit Discord
 
-### github:devcordde/tags/general
+### github:devcordde/tags//general
 
 Tags zu generellen Themen auf dem DevCord.
 
-### github:devcordde/tags/java
+### github:devcordde/tags//java
 
 Alles zur Entwicklung mit Java
 
-### github:devcordde/tags/kotlin
+### github:devcordde/tags//kotlin
 
 Alles zu Entwicklung mit Kotlin
 
-### github:devcordde/tags/memes
+### github:devcordde/tags//memes
 
 Lustige und nicht lustige Memes
 
-### github:devcordde/tags/minecraft
+### github:devcordde/tags//minecraft
 
 Alles zur Entwicklung mit Minecraft
 
-### github:devcordde/tags/misc
+### github:devcordde/tags//misc
 
 Sachen die sonst keinen Platz haben :c
 
-### github:devcordde/tags/programmieren-lernen
+### github:devcordde/tags//programmieren-lernen
 
 Für die absoluten Anfängertipps
 
 
-### github:devcordde/tags/python
+### github:devcordde/tags//python
 
 Alles zur Entwicklung mit Python
 
-### github:devcordde/tags/tools
+### github:devcordde/tags//tools
 
 Über Tools die mit Programmierung zu tun haben
 

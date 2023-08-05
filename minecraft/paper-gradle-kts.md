@@ -1,50 +1,10 @@
 ---
 tag: paper-gradle-kts
-alias: ["paper-build-kts"]
+alias: ["paper-build-kts", "paper-gradle", "minecraft-gradle"]
 ---
 
-```gradle
-plugins {
-    java
+Die Minecraft-Community hat rund um das Build-Tool Gradle ein riesiges Ökosystem für Minecraft aufgebaut.
+Anstatt dich mit einer Beispiel-Gradle-Datei zu überschütten, werden wir Schritt für Schritt vorgehen.
+Wir beginnen mit dem grundlegenden Gradle-Layout, legen Repositories und Abhängigkeiten fest und fahren mit Plugins fort.
 
-    // falls du weitere Abhängigkeiten in deinem Plugin benötigst, welche nicht von Paper bereitgestellt werden:
-    // id("com.github.johnrengelman.shadow") version "8.1.1"
-}
-
-group = "org.wlosp"
-version = "1.0-SNAPSHOT"
-
-repositories {
-    mavenCentral()
-    maven("https://papermc.io/repo/repository/maven-public/")
-}
-
-dependencies {
-    compileOnly("io.papermc.paper:paper-api:1.20.1-R0.1-SNAPSHOT")
-}
-
-java.toolchain {
-    languageVersion.set(JavaLanguageVersion.of(17))
-}
-
-tasks {
-    // statt den richtigen Namen und die Version in die plugin.yml zu schreiben
-    // kannst du ${name} und ${version} hineinschreiben und es wird automatisch
-    // mit dem Namen und der Version deines Gradle-Projektes ersetzt
-    processResources {
-        from(sourceSets.main.get().resources.srcDirs) {
-            filesMatching("plugin.yml") {
-                expand(
-                        "version" to project.version,
-                        "name" to project.name
-                )
-            }
-            duplicatesStrategy = DuplicatesStrategy.INCLUDE
-        }
-    }
-}
-```
-
-Falls du die NMS Klassen benötigst, empfiehlt sich das Paperweight-Plugin:
-https://raw.githubusercontent.com/PaperMC/paperweight-test-plugin/master/build.gradle.kts
-https://raw.githubusercontent.com/PaperMC/paperweight-test-plugin/master/settings.gradle.kts
+[Hier gehts zum Blog Post](https://chojo.dev/blog/de/gradle_minecraft_basic_and_advanced/)

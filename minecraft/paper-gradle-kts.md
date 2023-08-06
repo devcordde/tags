@@ -9,5 +9,5 @@ Wir beginnen mit dem grundlegenden Gradle-Layout, legen Repositories und Abhäng
 
 [Hier gehts zum Blog Post](<https://chojo.dev/blog/de/gradle_minecraft_basic_and_advanced/>)
 
-Wenn du einfach nur auf der suche nach einer schnellen Referenz bist, schau [hier](<https://haste.devcord.club/orizodomar.java>)
+Wenn du einfach nur auf der Suche nach einer schnellen Referenz bist, schau [hier](<https://haste.devcord.club/orizodomar.java>)
 

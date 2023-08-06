@@ -30,8 +30,8 @@ public class DepA {
 ```java
 public class DepB {
   private final DepA a;
-  // da die DepB Klasse nur die Funktionalität der DepA Klasse braucht,
-  // übergibt man nur sie im Konstruktor
+  // Die DepB Klasse benötigt Zugriff auf die DepA Instanz.
+  // Daher übrgibt man diese im Konstruktor
   public DepB(DepA a) { this.a = a; }
   public void doThat() { a.doThis(); }
   public void doSomething() { }

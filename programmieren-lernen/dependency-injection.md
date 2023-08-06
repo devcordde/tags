@@ -6,9 +6,9 @@ alias: ["di"]
 Dependency Injection by Example:
 ```java
 public class MeineApp {
-  // hier übergibt man die Instanz der MeineApp Klasse
+  // Hier übergibt man die Instanz der MeineApp Klasse
   private final DepA a = new DepA(this);
-  // die DepB Klasse greift auf die DepA Klasse zu
+  // Die DepB Klasse greift auf die DepA Klasse zu
   private final DepB b = new DepB(a);
   // Info: man muss nicht die Variablen hier ↑ initialisieren, geht auch in der onEnable.
   public void start(String[] args) {
@@ -18,7 +18,7 @@ public class MeineApp {
 ``````java
 public class DepA {
   private final MeineApp app;
-  // hier kann man dann die Instanz der MeineApp Klasse verwenden.
+  // Hier kann man dann die Instanz der MeineApp Klasse verwenden.
   public DepA(MeineApp app) { this.app = app; }
   public void doThis() {}
 }
@@ -31,7 +31,7 @@ public class DepB {
   public void doThat() { a.doThis(); }
 }
 ```
-Prinzip ist es dass was man braucht im Konstruktor übergibt, wenn man die main braucht, übergibt man sie.
+Das Prinzip von Dependency Injection ist, dass im Konstruktor übergeben wird, was man braucht. Wenn man die Instanz der Hauptklasse braucht, übergibt man sie.
 Was ist mit cyclic dependencies? Da kann man zb. ne `init()` Methode machen.
-Für ein besseres verständnis, kannst du dir [das Video von CodeAesthetic](https://www.youtube.com/watch?v=J1f5b4vcxCQ) anschauen.
+Für ein besseres Verständnis, kannst du dir [das Video von CodeAesthetic](https://www.youtube.com/watch?v=J1f5b4vcxCQ) anschauen.
 

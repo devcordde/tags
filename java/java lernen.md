@@ -17,7 +17,7 @@ alias: ["java-lernen", "java-basics", "learnjava", "javalernen"]
 ### Kurse:
 
 - [Hyperskill](<https://hyperskill.org/onboarding>) (Englisch, mehr Infos unter /tag hyperskill)
-- [Javakurs der Universität Heslinki](<https://java-programming.mooc.fi/>) (Englisch)
+- [Javakurs der Universität Helsinki](<https://java-programming.mooc.fi/>) (Englisch)
 - [CodeCademy](<https://www.codecademy.com/catalog/language/java>)  (Englisch)
 
 ### Style und Struktur:

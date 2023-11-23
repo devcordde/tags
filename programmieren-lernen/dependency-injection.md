@@ -39,6 +39,9 @@ public class DepB {
   public void doSomething() { }
 }
 ```
-Das Prinzip von Dependency Injection ist, dass im Konstruktor übergeben wird, was man braucht. Wenn man die Instanz der Hauptklasse braucht, übergibt man sie.  
-Bei cyclic Dependencies (also wie `DepA` `DepB` braucht und andersrum) setzt man die Dependencies später oder übergibt man einen höheren Container wie `MeineApp`.
+Dependency Injection (DI) ist ein Prinzip, bei dem im Konstruktor einer Klasse die benötigten Abhängigkeiten übergeben werden. Wenn beispielsweise eine Instanz der Hauptklasse gebraucht wird, werden die erforderlichen Abhängigkeiten an den Konstruktor übergeben und in, wenn nötig, einer Variable gespeichert.
 Für ein besseres Verständnis, kannst du dir [das Video von CodeAesthetic](<https://www.youtube.com/watch?v=J1f5b4vcxCQ>) anschauen.
+Auf der nächsten Seite sind ein paar Informtionen zu cyclic dependencies.
+<new_page>
+Bei zyklischen Abhängigkeiten, bei denen beispielsweise `DepA` `DepB` benötigt und umgekehrt, kann die Lösung darin bestehen, die Abhängigkeiten später zu setzen oder einen übergeordneten Container wie `MeineApp` zu übergeben.
+Eine alternative Methode wäre den von beiden Klassen verwendeten Code in eine dritte Klasse zu extrahieren. Durch das Extrahieren des gemeinsam genutzten Codes in eine separate Klasse, . Diese dritte Klasse kann dann ohne zyklische Abhängigkeiten instanziiert werden und an die Klassen DepA und DepB übergeben werden.

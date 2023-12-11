@@ -10,8 +10,14 @@ Beispielsweise kann man einen `CommandSender` zu `Player` casten, weil `Player` 
 
 Das in Java 14 eingeführte `Pattern Matching` ist dabei sehr nützlich - das führt zu simplerem und einfacherem Code.
 ```java
-if (sender instanceof Player player) 
+if (sender instanceof Player player) {
+  player.sendMessage("hello")
+}
 ```
-Ohne eine neue Variable zu definieren, ist es möglich, `player` zu verwenden.
+Ohne eine neue Variable zu definieren, ist es möglich, `player` zu verwenden. Player ist hierbei eine lokale variable. Alternativ kannst du auch negieren.
+```java
+if (sender instanceof Player player) return;
+player.sendMessage("hello")
+```
 
 Man kann jedoch nicht etwa ein `BlockBreakEvent` zu einem `Player` casten, auch wenn ein `Player` etwas mit dem event zu tun hat. `BlockBreakEvent` und `Player` sind **nicht verwandt**, somit wird der cast **immer** einen Fehler erzeugen. In solchen Fällen sollte man schauen, ob es einen Weg gibt, um an das Objekt zu kommen, was man haben will. Beim `BlockBreakEvent` z.B. gibt es eine Methode `getPlayer()`, mit der man den `Player` erhält.

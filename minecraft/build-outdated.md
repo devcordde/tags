@@ -13,6 +13,6 @@ Da Spigot aufgrund eines Ergebnisses von einem Gerichtsverfahren, die .jar Datei
 
 Du weisst nicht wie das geht?
 -> https://www.spigotmc.org/wiki/buildtools/
--> `/t download-spigot` Hier ist alles auch noch mal erklärt 🙂
+-> `/tag download-spigot` Hier ist alles auch noch mal erklärt 🙂
 
 Hier ist alles erklärt, sonst gibt es auch Haufenweise Videos auf YT dazu: Suche einfach `Spigot-Server mit BuildTools kompilieren`

@@ -21,6 +21,7 @@ try {
     System.out.println("URI-Problem");
     use.printStackTrace();
 }
-System.out.println("weiter geht's...");```
+System.out.println("weiter geht's...");
+```
 
 Quelle: https://javabeginners.de/Exceptions/Die_try-catch-Anweisung.php

@@ -10,7 +10,7 @@ Beispielsweise kann man einen `CommandSender` zu `Player` casten, weil `Player` 
 
 Man kann jedoch nicht etwa ein `BlockBreakEvent` zu einem `Player` casten, auch wenn ein `Player` etwas mit dem event zu tun hat. `BlockBreakEvent` und `Player` sind **nicht verwandt**, somit wird der cast **immer** einen Fehler erzeugen. In solchen Fällen sollte man schauen, ob es einen Weg gibt, um an das Objekt zu kommen, was man haben will. Beim `BlockBreakEvent` z.B. gibt es eine Methode `getPlayer()`, mit der man den `Player` erhält.
 
-Eine einfache Syntax zu casting wird auf der nächsten Seite gezeigt.
+Eine einfache Syntax zu Casting wird auf der nächsten Seite gezeigt.
 <new_page>
 Das in Java 14 eingeführte `Pattern Matching` ist dabei sehr nützlich - das führt zu simplerem Code.
 ```java

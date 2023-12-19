@@ -18,7 +18,7 @@ if (sender instanceof Player player) {
   player.sendMessage("hello")
 }
 ```
-Ohne eine neue Variable zu definieren, ist es möglich, `player` zu verwenden. `player` ist hierbei eine lokale Variable vom Typ `Player`. Alternativ kannst du auch negieren, mit einem Early Return Pattern.
+Ohne explizit eine neue Variable zu definieren, ist es möglich, `player` zu verwenden. `player` ist hierbei eine lokale Variable vom Typ `Player`. Alternativ kannst du die Bedingung auch negieren, also das Early Return Pattern anwenden.
 ```java
 if (!(sender instanceof Player player)) return;
 player.sendMessage("hello")

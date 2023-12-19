@@ -12,7 +12,7 @@ Man kann jedoch nicht etwa ein `BlockBreakEvent` zu einem `Player` casten, auch 
 
 Eine einfache Syntax zu casting wird auf der nächsten Seite gezeigt.
 <new_page>
-Das in Java 14 eingeführte `Pattern Matching` ist dabei sehr nützlich - das führt zu simplerem und einfacherem Code.
+Das in Java 14 eingeführte `Pattern Matching` ist dabei sehr nützlich - das führt zu simplerem Code.
 ```java
 if (sender instanceof Player player) {
   player.sendMessage("hello")

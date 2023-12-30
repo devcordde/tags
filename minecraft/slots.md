@@ -1,13 +1,12 @@
 ---
 tag: slots
-alias: ["inventorys", "delete", "inventories"]
+alias: ["inventorys", "inventories"]
 ---
+Die Slotnummern für Inventare findest du auf der **[Inventare Wikiseite](<https://wiki.vg/Inventory>)**
 
-**Klein**:
-https://c4k3.github.io/wiki.vg/images/1/19/Chest-slots.png
+oder auf den folgenden Seiten
+<new_page>
+**Klein**: https://wiki.vg/images/1/19/Chest-slots.png
+<new_page>
+**Groß**: https://wiki.vg/File:DoubleChest-slots.png
 
-**Groß**:
-https://c4k3.github.io/wiki.vg/images/b/bb/DoubleChest-slots.png
-
-**Alle Inventare**:
-https://c4k3.github.io/wiki.vg/Inventory.html

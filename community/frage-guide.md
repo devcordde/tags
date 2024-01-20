@@ -8,7 +8,7 @@ Hier sind ein paar Tipps zum richtigen formulieren einer Frage:
 2. Versuche dein Problem genau zu formulieren:
   - Was du erreichen willst
   - Was du bereits hast
-  - Woran es scheitert/zu welchen Abschnitt du Hilfe brauchst
+  - Woran es scheitert oder zu welchem Abschnitt du Hilfe brauchst
 3. Füge deinen bisherigen Fortschritt hinzu, verwende zum Teilen von Code Seiten wie [hastebin](<https://hastebin.com/>) oder [Github Gist](<https://gist.github.com/>):
   - Wenn du eine gewisse Problemstellung lösen willst, reicht ein Teil deines Quellcodes
   - Wenn du eine Fehlermeldung bekommst, teile am besten die Fehlermeldung und die ganze Klasse (Java, etc.) oder das ganze Dokument

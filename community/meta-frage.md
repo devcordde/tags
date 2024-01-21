@@ -25,4 +25,5 @@ Metafragen sind Fragen über Fragen, wie "Darf ich etwas fragen?" oder "Kennt si
 - „Kannst du mal herkommen?“
 
 ### Weblinks
+
 [Smart Questions](<https://tty1.net/smart-questions_de.html>): Wie man Fragen in Foren, Chatrooms und Mailinglisten stellt, um befriedigende Antworten zu erhalten.

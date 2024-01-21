@@ -2,7 +2,7 @@
 tag: frage-guide
 alias: []
 ---
-Du hast deine Frage anscheinend unvollständig oder falsch formuliert!
+Hey, es scheint als wolle der User hier drüber dir helfen, du hast allerdings deine Frage unvollständig oder falsch formuliert!
 Hier sind ein paar Tipps zum richtigen formulieren einer Frage:
 1. Vermeide [Metafragen](<https://metafrage.de/>)!
 2. Versuche dein Problem genau zu formulieren:

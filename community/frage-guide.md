@@ -9,9 +9,9 @@ Hier sind ein paar Tipps zum richtigen formulieren einer Frage:
   - Was du erreichen willst
   - Was du bereits hast
   - Woran es scheitert oder zu welchem Abschnitt du Hilfe brauchst
-3. Füge deinen bisherigen Fortschritt hinzu, verwende zum Teilen von Code Seiten wie [hastebin](<https://hastebin.com/>) oder [Github Gist](<https://gist.github.com/>):
-  - Wenn du eine gewisse Problemstellung lösen willst, reicht ein Teil deines Quellcodes
-  - Wenn du eine Fehlermeldung bekommst, teile am besten die Fehlermeldung und die ganze Klasse (Java, etc.) oder das ganze Dokument
+3. Füge deinen bisherigen Fortschritt hinzu, verwende zum Teilen von Code Seiten wie dem [DevCord Hastebin](<https://haste.devcord.club/>) oder [Github Gist](<https://gist.github.com/>):
+  - Wenn du ein spezifisches Problem lösen willst, reicht ein Teil deines Quellcodes
+  - Wenn du eine Fehlermeldung bekommst, teile am besten die Fehlermeldung und die ganze Klasse (Java, etc.) bzw. die komplette Datei
     - Fehlermeldungen enthalten meistens Zeilenangaben, weswegen wir den vollständigen Quellcode benötigen
     - Teile Fehlermeldung und Quellcode immer getrennt!
 4. Wenn du noch gar keinen Ansatz hast, erwarte nicht, dass du anschließend eine komplette Lösung von uns bekommst. Die meisten geben dir einen Tipp oder einen Lösungsansatz oder eine Quelle, wo du mehr erfahren/lernen kannst.

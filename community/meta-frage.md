@@ -13,10 +13,10 @@ Metafragen sind Fragen über Fragen, wie "Darf ich etwas fragen?" oder "Kennt si
 
 ### Nachteile von Metafragen
 
-- Anwesende könnten helfen, auch wenn sie sich möglicherweise nicht als Experten outen.
 - Metafragen sind oft ungenau formuliert, wie z. B. "Kennt sich jemand mit Kochen aus?", wenn es eigentlich um die Essbarkeit von Mangos geht.
 - Vertrautsein mit einem Thema bedeutet nicht, dass alle spezifischen Fragen dazu beantwortet werden können.
-- Fehlt eine Reaktion auf die Metafrage, bleibt der Fragende oft schweigend, was spätere Hilfe erschwert.
+- Anwesende könnten helfen, auch wenn sie sich möglicherweise nicht als Experten bezeichnen würden.
+- Fehlt eine Antwort auf die Metafrage, wird das Problem oft entweder garnicht oder erst deutlich später gelöst.
 
 ### Beispiele
 

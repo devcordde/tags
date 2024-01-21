@@ -6,11 +6,6 @@ alias: []
 
 Metafragen sind Fragen über Fragen, wie "Darf ich etwas fragen?" oder "Kennt sich jemand mit Computern aus?". Oft suchen Hilfesuchende so nach kompetenten Ansprechpartnern. Diese Fragen werden oft ignoriert oder der Fragende wird darauf hingewiesen, dass eine konkrete Problembeschreibung nötig ist. In der Regel folgt auf eine Meta-Frage eine weitere Frage.
 
-### Vorteile von Metafragen
-
-- Als höfliche Floskel um Aufmerksamkeit zu gewinnen
-- Beginn einer zunächst einseitigen Konversation (Allgemeine Problemanalyse)
-
 ### Nachteile von Metafragen
 
 - Metafragen sind oft ungenau formuliert, wie z. B. "Kennt sich jemand mit Kochen aus?", wenn es eigentlich um die Essbarkeit von Mangos geht.

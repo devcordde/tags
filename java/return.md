@@ -1,6 +1,8 @@
 ---
 tag: return
 alias: []
+image: https://github.com/devcordde/tags/assets/46890129/6a343c2c-f628-44b5-ae70-60f7ec914322
+
 ---
 
 Code:
@@ -35,5 +37,3 @@ Diese Funktion sollte schon von normalen Methoden bekannt sein, das ist natürli
 
 **return**-Methoden sind Methoden die einen Wert zurückgeben und zusätzlich Code ausführen **können**.
 **void**-Methoden sind Methoden die einen Code ausführen und keinen anderen Zweck erfüllen.
-
-*Anhang:* https://media.discordapp.net/attachments/486910521329844227/792162684303835166/unknown.png

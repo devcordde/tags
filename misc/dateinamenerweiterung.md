@@ -3,4 +3,4 @@ tag: dateinamenerweiterung
 alias: ["dne"]
 ---
 
-https://cdn.discordapp.com/attachments/486919187038470155/840146266612432926/Win-10-Dateiendungen-anzeigen.png
+https://github.com/devcordde/tags/assets/46890129/aaec6d4d-27a7-4cec-ace3-188c87780517

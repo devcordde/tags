@@ -6,7 +6,7 @@ image: https://github.com/devcordde/tags/assets/46890129/56cfd7a2-dcb0-423f-b151
 
 ## Anleitung für Windows:
 
-- Java **21** (neuste LTS Version) downloaden (schon ausgewählt) [**JDK (JDK = JRE + Tools)**](<https://adoptium.net/temurin/releases/?variant=openjdk18&jvmVariant=hotspot&version=21&os=windows>) 
+- Java **21** (neuste LTS Version) downloaden (schon ausgewählt) [**JDK (JDK = JRE + Tools)**](<https://adoptium.net/temurin/releases/?jvmVariant=hotspot&version=21&os=windows>) 
 - Datei (.msi) starten
 - Wie im Bild, alles auswählen: auf das X klicken - > Installieren, damit es dann wie im Bild unten aussieht
 - Fertig

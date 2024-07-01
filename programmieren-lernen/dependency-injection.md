@@ -14,7 +14,7 @@ public class MeineApp {
   public void start(String[] args) {
     b.doThat();
     // Info: Je nach umgebung, ist es manchmal nicht möglich bei Deklarationen zu übergeben,
-    // sondern erst z.b. einer onEnable Methode zum Beispiel.
+    // sondern erst z.B. bei einer onEnable Methode.
     c = new DepC(b);
   }
 }
